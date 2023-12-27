@@ -14,7 +14,7 @@ repos:
       meta-poky:
 
   meta-raspberrypi:
-    url: git@github.com:leon-anavi/meta-raspberrypi-1.git
+    url: https://github.com/leon-anavi/meta-raspberrypi-1.git
     branch: kirkstone-linux-raspberrypi-up-20231224
 
   meta-openembedded:
