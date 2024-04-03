@@ -2,7 +2,7 @@ header:
   version: 14
 
 machine: raspberrypi0-2w-64
-distro: poky
+distro: poky-sadika
 target: sadika-image
 
 repos:
